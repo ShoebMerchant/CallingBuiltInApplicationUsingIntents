@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calling Built In Application Using Intents</string>
+    <string name="web_browser">Web Browser</string>
+</resources>
